@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "Customer unable to log into the portal with correct credentials.",
+    "customer": "Rohit Sharma",
+    "priority": "High",
+    "status": "New",
+    "createdAt": "2025-09-20T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failure",
+    "description": "Payment gateway timeout during checkout process.",
+    "customer": "Priya Singh",
+    "priority": "Critical",
+    "status": "New",
+    "createdAt": "2025-09-21T14:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Slow Website",
+    "description": "Customer reports the website loads very slowly on mobile.",
+    "customer": "Amit Kumar",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-19T09:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Email Not Received",
+    "description": "Confirmation email not received after registration.",
+    "customer": "Neha Verma",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-18T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "App Crash",
+    "description": "Mobile app crashes after clicking on 'My Orders'.",
+    "customer": "Siddharth Das",
+    "priority": "High",
+    "status": "New",
+    "createdAt": "2025-09-22T12:20:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Refund Delay",
+    "description": "Customer waiting for refund for more than 7 days.",
+    "customer": "Ananya Gupta",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-17T15:10:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Broken Link",
+    "description": "Product details page has a broken link for reviews.",
+    "customer": "Vikram Singh",
+    "priority": "Low",
+    "status": "New",
+    "createdAt": "2025-09-16T08:40:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Wrong Order",
+    "description": "Customer received the wrong product in the shipment.",
+    "customer": "Ritu Mehra",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-15T13:25:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Password Reset Issue",
+    "description": "Password reset link expired before usage.",
+    "customer": "Arjun Patel",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-14T16:50:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Cart Issue",
+    "description": "Items disappear from cart after refreshing the page.",
+    "customer": "Simran Kaur",
+    "priority": "High",
+    "status": "New",
+    "createdAt": "2025-09-12T18:05:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Coupon Not Applied",
+    "description": "Discount coupon is not applied at checkout.",
+    "customer": "Karan Johar",
+    "priority": "Low",
+    "status": "New",
+    "createdAt": "2025-09-10T20:30:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Duplicate Charges",
+    "description": "Customer charged twice for the same order.",
+    "customer": "Meena Rani",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-09T10:10:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Out of Stock Error",
+    "description": "Product shows in stock but gives error during checkout.",
+    "customer": "Rahul Jain",
+    "priority": "Medium",
+    "status": "New",
+    "createdAt": "2025-09-08T12:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "UI Bug",
+    "description": "Alignment issue on the homepage in Firefox browser.",
+    "customer": "Shalini Kapoor",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-07T09:20:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Delivery Delay",
+    "description": "Order not delivered within promised time frame.",
+    "customer": "Manish Yadav",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-05T11:35:00Z"
+  }
+]

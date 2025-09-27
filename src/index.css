@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html, body, #root {
+  height: 100%;
+}
+
+.banner-gradient-1 {
+  background: linear-gradient(135deg,#7c3aed,#a78bfa);
+}
+.banner-gradient-2 {
+  background: linear-gradient(135deg,#10b981,#06b6d4);
+}
